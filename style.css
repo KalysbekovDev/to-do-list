@@ -1,0 +1,8 @@
+body{
+    background: gray;
+}
+
+
+.line {
+    text-decoration: line-through;
+}
